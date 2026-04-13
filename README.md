@@ -37,7 +37,7 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 
 </p>
 
-<img src="https://raw.githubusercontent.com/heyMichaelS/heyMichaelS/output/github-contribution-grid-snake-dark.svg" width="800"/>
+<img src="https://raw.githubusercontent.com/heyMichaelS/heyMichaelS/output/github-contribution-grid-snake-dark.svg" width="1200"/>
 
 ---
 
