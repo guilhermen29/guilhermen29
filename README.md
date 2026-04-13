@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/3dc095d1-e9fe-4c70-8c65-bf2cc38a5811" width="180">
-</p>
-
 <h1 align="center">👋 Hello, I'm Guilherme Marques</h1>
 
 <p align="center">
@@ -32,14 +28,12 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-
-<br>
-
 <img src="https://img.icons8.com/color/96/tableau-software.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>
+<img src="https://github.com/user-attachments/assets/3dc095d1-e9fe-4c70-8c65-bf2cc38a5811" width="50"/>
 
 </p>
 
