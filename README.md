@@ -71,18 +71,6 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guilhermen29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermen29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-</p>
-
----
-
 ## 🚀 Career Goal
 
 My goal is to grow in the **Data field**, evolving from **Data Analyst to Data Engineer**, building scalable data solutions and helping organizations make **data-driven decisions**.
