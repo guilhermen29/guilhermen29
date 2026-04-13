@@ -1,4 +1,8 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3dc095d1-e9fe-4c70-8c65-bf2cc38a5811" /><h1 align="center">👋 Hello, I'm Guilherme Marques</h1>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3dc095d1-e9fe-4c70-8c65-bf2cc38a5811" width="180">
+</p>
+
+<h1 align="center">👋 Hello, I'm Guilherme Marques</h1>
 
 <p align="center">
 Data Analyst | Data Enthusiast | Future Data Engineer
@@ -21,19 +25,21 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-<img src="https://www.svgrepo.com/show/373848/mysql.svg"></path> </g></svg>" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<img src="https://www.svgrepo.com/show/331724/github-code-source.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
-<img src="https://img.icons8.com/color/96/tableau-software.png" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
-<img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" width="55"/>
-<img src="" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+
+<br>
+
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>
 
 </p>
 
