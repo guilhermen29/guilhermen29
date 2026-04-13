@@ -24,15 +24,15 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55"/>
+<img src="https://www.svgrepo.com/show/331724/github-code-source.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 <img src="https://img.icons8.com/color/96/tableau-software.png" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
-<img src="https://img.icons8.com/color/96/jupyter.png" width="55"/>
+<img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" width="55"/>
 <img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" width="55"/>
 
 </p>
