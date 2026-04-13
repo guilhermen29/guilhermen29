@@ -17,6 +17,8 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 
 ---
 
+<img src="https://raw.githubusercontent.com/heyMichaelS/heyMichaelS/output/github-contribution-grid-snake-dark.svg" width="75"/>
+
 ## 🧰 Technologies & Tools
 
 <p align="center">
@@ -73,9 +75,9 @@ Data Analyst | Data Enthusiast | Future Data Engineer
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermen29&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=guilhermen29&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermen29&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermen29&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
